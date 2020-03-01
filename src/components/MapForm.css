@@ -1,0 +1,9 @@
+.map-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.coords-list {
+  display: flex;
+  justify-content: space-between;
+}

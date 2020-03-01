@@ -1,3 +1,10 @@
+adding points using coordinates - complete
+coordinates list + delete - complete
+location suggestions select is being populated
+adding points via select - incomplete
+***************************************************
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
